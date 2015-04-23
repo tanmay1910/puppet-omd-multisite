@@ -1,0 +1,10 @@
+name 'tanmay19-omd'
+version '1.0.0'
+
+author 'Tanmay.P'
+license ' '
+summary 'Allows to install and configure OMD distribution and OMD sites via puppet'
+dependency 'puppetlabs/stdlib', ''
+dependency 'puppetlabs/concat', ''
+dependency 'puppetlabs/xinetd', ''
+dependency 'puppetlabs/apt', ''
